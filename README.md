@@ -16,3 +16,10 @@ Android, denominado Anroid Studio, y una herramienta UML de código abierto deno
 
 Las dos primeras prácticas no se han incluído dado que eran sencillos tutoriales para introducir al manejo de ambos progrmas,
 Android Studio y Modeilio, respectivamente.
+
+## 4 - Autores
+
+Programadores y diseñadores del trabajo
+
+* **Sakerdot** - [Sakerdot](https://github.com/Sakerdot)
+* **ZgzInfinity**  - [ZgzInfinity](https://github.com/ZgzInfinity)
