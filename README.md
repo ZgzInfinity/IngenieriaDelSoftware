@@ -1,3 +1,6 @@
+
+![alt text](https://i.ibb.co/pzz6f44/ingenieria-software-34.jpg)
+
 # Prácticas de Ingeniería del Software 2018-19
 
 ## 1 - Descripción 
